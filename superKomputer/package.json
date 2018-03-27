@@ -25,6 +25,9 @@
         "type": "git",
         "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer.git"
     },
+    "scripts": {
+        "start": "node index.js"
+    },
     "dependencies": {
         "bootstrap": "4.0.0",
         "font-awesome": "4.7.0",
